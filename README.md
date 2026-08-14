@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Fahad Al Faysal 👋
 
-<!--
-**Faysal68029/Faysal68029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Class Computer Science Graduate | Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with a strong interest in software engineering, mobile application development, and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications and solving technical problems using modern software technologies.
+
+## 💻 Technical Skills
+
+**Languages:** JavaScript, Java, Python, C#, Kotlin, SQL
+
+**Mobile & Frontend:** React Native, React, Expo
+
+**Backend:** Node.js, REST APIs
+
+**Databases:** MySQL, Supabase, SQL
+
+**Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+I'm currently preparing and documenting my strongest software projects for GitHub.
+
+Projects coming soon include:
+
+- Mobile application development
+- Full-stack applications
+- Backend systems
+- Location-based applications
+
+## 🎯 Current Focus
+
+- Software Engineering
+- Mobile Application Development
+- Backend Development
+- Improving my Git and GitHub workflow
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/fahad-al-faysal)
